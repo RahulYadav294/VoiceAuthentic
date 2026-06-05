@@ -305,6 +305,61 @@ MFCC features capture important characteristics of human speech and provide a co
 
 
 \---
+## Dependencies
+
+
+
+The following Python libraries were used in Phase 1 of the project:
+
+
+
+\### NumPy
+
+
+
+Used for numerical computing and array operations. Audio signals are represented as numerical arrays, making NumPy essential for processing audio data.
+
+
+
+\### SciPy
+
+
+
+Used for reading and analyzing WAV audio files. It provides utilities for signal processing and audio inspection.
+
+
+
+\### Matplotlib
+
+
+
+Used for data visualization. Waveforms, spectrograms, and MFCC feature maps are generated and saved as images using Matplotlib.
+
+
+
+\### Librosa
+
+
+
+A specialized audio analysis library used for feature extraction, spectrogram generation, and MFCC computation. It is widely used in speech processing and audio machine learning applications.
+
+
+
+\### Git
+
+
+
+Used for version control and tracking project progress.
+
+
+
+\### GitHub
+
+
+
+Used for project hosting, collaboration, and documentation.
+
+
 
 
 
@@ -331,8 +386,4 @@ Completed:
 
 
 \---
-
-
-
-
 
